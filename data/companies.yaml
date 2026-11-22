@@ -1,0 +1,307 @@
+# Global Company Radar — source data.
+# Every profile page, table and news feed is generated from this file.
+# Fields: name, focus, site, [research], [tools: [[label, url]]], [note], [trials: true], [query]
+# To add a company, append an entry under the right group and open a pull request.
+
+groups:
+  - id: usa-tech
+    title: "🇺🇸 USA · Technology"
+    companies:
+      - name: Microsoft
+        focus: Cloud, AI, software
+        site: https://www.microsoft.com
+        research: https://www.microsoft.com/en-us/research/
+        tools:
+          - [Microsoft Learn (free training), https://learn.microsoft.com/en-us/training/]
+          - [Visual Studio Code, https://code.visualstudio.com]
+          - [Azure free account, https://azure.microsoft.com/free/]
+          - [GitHub Copilot Free, https://github.com/features/copilot]
+      - name: Apple
+        focus: Consumer technology
+        site: https://www.apple.com
+        research: https://machinelearning.apple.com
+        tools:
+          - [Apple Developer, https://developer.apple.com]
+          - [Swift Playgrounds, https://www.apple.com/swift/playgrounds/]
+          - [Apple Machine Learning Research, https://machinelearning.apple.com]
+      - name: NVIDIA
+        focus: AI chips, semiconductors, accelerated computing
+        site: https://www.nvidia.com
+        research: https://research.nvidia.com
+        tools:
+          - [NVIDIA Deep Learning Institute, https://www.nvidia.com/en-us/training/]
+          - [NVIDIA NIM / build.nvidia.com, https://build.nvidia.com]
+          - [CUDA Toolkit, https://developer.nvidia.com/cuda-toolkit]
+          - [NVIDIA Developer, https://developer.nvidia.com]
+      - name: Alphabet (Google)
+        focus: Search, AI, cloud
+        site: https://abc.xyz
+        research: https://research.google
+        query: Google
+        note: "Research arms: **Google Research** and **Google DeepMind** (AlphaFold, Gemini)."
+        tools:
+          - [Google Research — publications, https://research.google/pubs/]
+          - [Google DeepMind, https://deepmind.google]
+          - [Google AI Studio (Gemini), https://aistudio.google.com]
+          - [Google Colab, https://colab.research.google.com]
+          - [NotebookLM, https://notebooklm.google.com]
+          - [Google Scholar, https://scholar.google.com]
+          - [AlphaFold Server, https://alphafoldserver.com]
+      - name: Amazon
+        focus: Cloud (AWS), e-commerce, AI
+        site: https://www.aboutamazon.com
+        research: https://www.amazon.science
+        tools:
+          - [AWS Free Tier, https://aws.amazon.com/free/]
+          - [AWS Skill Builder, https://skillbuilder.aws]
+          - [Amazon Science, https://www.amazon.science]
+      - name: Meta Platforms
+        focus: AI, social platforms, mixed reality
+        site: https://about.meta.com
+        research: https://ai.meta.com/research/
+        query: Meta Platforms
+        note: "Developer documentation is tracked in [AI-Developer-Docs-Hub → Meta](https://github.com/Subhadeep998/AI-Developer-Docs-Hub/tree/main/meta)."
+        tools:
+          - [Meta AI developer platform (Llama, Muse), https://developer.meta.com/ai/]
+          - [PyTorch, https://pytorch.org]
+          - [React, https://react.dev]
+          - [Meta for Developers, https://developers.meta.com]
+      - name: Oracle
+        focus: Enterprise software, cloud, health records
+        site: https://www.oracle.com
+        tools:
+          - [Oracle Cloud Free Tier, https://www.oracle.com/cloud/free/]
+          - [Oracle MyLearn, https://mylearn.oracle.com]
+      - name: Salesforce
+        focus: CRM, enterprise AI agents
+        site: https://www.salesforce.com
+        tools:
+          - [Trailhead (free learning + badges), https://trailhead.salesforce.com]
+      - name: Adobe
+        focus: Creative and document software, generative AI
+        site: https://www.adobe.com
+        research: https://research.adobe.com
+        tools:
+          - [Adobe Express (free plan), https://www.adobe.com/express/]
+          - [Adobe Acrobat Reader, https://get.adobe.com/reader/]
+      - name: IBM
+        focus: Enterprise AI, hybrid cloud, quantum, consulting
+        site: https://www.ibm.com
+        research: https://research.ibm.com
+        tools:
+          - [IBM SkillsBuild, https://skillsbuild.org]
+          - [IBM Quantum Platform, https://quantum.ibm.com]
+          - [IBM Granite open models, https://huggingface.co/ibm-granite]
+      - name: Intel
+        focus: Semiconductors, foundry
+        site: https://www.intel.com
+        tools:
+          - [OpenVINO toolkit, https://docs.openvino.ai]
+          - [Intel oneAPI, https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html]
+      - name: AMD
+        focus: CPUs, GPUs, AI accelerators
+        site: https://www.amd.com
+        tools:
+          - [ROCm open software, https://rocm.docs.amd.com]
+          - [AMD Developer Central, https://www.amd.com/en/developer.html]
+      - name: Qualcomm
+        focus: Wireless, mobile and edge-AI chips
+        site: https://www.qualcomm.com
+        tools:
+          - [Qualcomm AI Hub, https://aihub.qualcomm.com]
+      - name: Cisco
+        focus: Networking, cybersecurity
+        site: https://www.cisco.com
+        tools:
+          - [Cisco Networking Academy, https://www.netacad.com]
+          - [Cisco DevNet, https://developer.cisco.com]
+      - name: Palantir Technologies
+        focus: AI platforms, data analytics
+        site: https://www.palantir.com
+        query: Palantir
+        tools:
+          - [Palantir Learn, https://learn.palantir.com]
+      - name: Tesla
+        focus: Electric vehicles, energy storage, solar, autonomy, robotics
+        site: https://www.tesla.com
+        research: https://www.tesla.com/AI
+        note: "**SolarCity** was acquired by Tesla in 2016; its solar business now operates as **Tesla Energy** (Solar Roof, Powerwall, Megapack)."
+        tools:
+          - [Tesla AI & Robotics, https://www.tesla.com/AI]
+          - [Tesla Energy, https://www.tesla.com/energy]
+          - [Tesla Impact Report, https://www.tesla.com/impact]
+      - name: SpaceX (incl. xAI, X, Grok)
+        focus: Launch, Starlink, AI (Grok), social platform X
+        site: https://www.spacex.com
+        query: SpaceX OR xAI OR Grok
+        note: "SpaceX acquired **xAI** in February 2026. xAI had earlier (2025) merged with **X** (formerly Twitter), so Grok and X are now part of SpaceX."
+        tools:
+          - [Starlink, https://www.starlink.com]
+          - [Grok, https://grok.com]
+          - [xAI API documentation, https://docs.x.ai]
+          - [X Developer Platform, https://developer.x.com]
+      - name: Anthropic
+        focus: Frontier AI research and the Claude models
+        site: https://www.anthropic.com
+        research: https://www.anthropic.com/research
+        note: "Full developer documentation is tracked in [AI-Developer-Docs-Hub → Anthropic](https://github.com/Subhadeep998/AI-Developer-Docs-Hub/tree/main/anthropic)."
+        tools:
+          - [Claude, https://claude.ai]
+          - [Claude Platform docs, https://platform.claude.com/docs]
+          - [Anthropic Academy (free courses), https://anthropic.skilljar.com]
+
+  - id: consulting
+    title: "🌐 Consulting & Market Intelligence"
+    companies:
+      - name: Accenture
+        focus: Consulting, technology services, AI transformation
+        site: https://www.accenture.com
+        tools:
+          - [Accenture Insights & research, https://www.accenture.com/us-en/insights]
+      - name: GlobalData PLC
+        focus: Data, analytics and market intelligence
+        site: https://www.globaldata.com
+        query: GlobalData
+        note: "GlobalData also runs free industry news sites (below) — useful for healthcare and medtech intelligence."
+        tools:
+          - [Pharmaceutical Technology, https://www.pharmaceutical-technology.com]
+          - [Medical Device Network, https://www.medicaldevice-network.com]
+          - [Clinical Trials Arena, https://www.clinicaltrialsarena.com]
+          - [Verdict, https://www.verdict.co.uk]
+
+  - id: uk-tech
+    title: "🇬🇧 UK · Technology"
+    companies:
+      - name: Arm Holdings
+        focus: Semiconductor architecture
+        site: https://www.arm.com
+        tools:
+          - [Arm Developer, https://developer.arm.com]
+      - name: Sage Group
+        focus: Business and accounting software
+        site: https://www.sage.com
+      - name: RELX
+        focus: Information analytics (Elsevier, LexisNexis)
+        site: https://www.relx.com
+        tools:
+          - [ScienceDirect (open-access articles), https://www.sciencedirect.com]
+          - [Scopus Sources (free journal metrics), https://www.scopus.com/sources]
+      - name: Wise
+        focus: Financial technology, cross-border payments
+        site: https://wise.com
+        query: Wise fintech
+      - name: Revolut
+        focus: Digital finance
+        site: https://www.revolut.com
+      - name: Darktrace
+        focus: AI cybersecurity
+        site: https://www.darktrace.com
+      - name: Ocado Group
+        focus: Robotics, warehouse automation
+        site: https://www.ocadogroup.com
+      - name: Monzo
+        focus: Digital banking
+        site: https://monzo.com
+      - name: Bytes Technology Group
+        focus: IT services, software licensing
+        site: https://www.bytes.co.uk
+      - name: Kainos
+        focus: Digital transformation
+        site: https://www.kainos.com
+
+  - id: india-tech
+    title: "🇮🇳 India · Technology"
+    companies:
+      - name: Tata Consultancy Services
+        focus: IT services, consulting
+        site: https://www.tcs.com
+        query: TCS Tata Consultancy
+        tools:
+          - [TCS iON (learning), https://learning.tcsionhub.in]
+      - name: Infosys
+        focus: IT, digital transformation
+        site: https://www.infosys.com
+        tools:
+          - [Infosys Springboard (free courses), https://infyspringboard.onwingspan.com]
+      - name: HCLTech
+        focus: Engineering, IT services
+        site: https://www.hcltech.com
+      - name: Wipro
+        focus: Technology consulting
+        site: https://www.wipro.com
+      - name: Tech Mahindra
+        focus: IT, telecom technology
+        site: https://www.techmahindra.com
+      - name: LTIMindtree
+        focus: Cloud, data, AI
+        site: https://www.ltimindtree.com
+      - name: Persistent Systems
+        focus: Software engineering
+        site: https://www.persistent.com
+      - name: Coforge
+        focus: Digital engineering, IT
+        site: https://www.coforge.com
+      - name: Zoho Corporation
+        focus: Enterprise SaaS
+        site: https://www.zoho.com
+        query: Zoho
+        tools:
+          - [Zoho free plans, https://www.zoho.com/free.html]
+      - name: Freshworks
+        focus: Customer-service software
+        site: https://www.freshworks.com
+
+  - id: usa-health
+    title: "🇺🇸 USA · Healthcare & Life Sciences"
+    companies:
+      - {name: Johnson & Johnson, focus: "Pharma, medical technology", site: "https://www.jnj.com", trials: true}
+      - {name: UnitedHealth Group, focus: "Healthcare services, insurance", site: "https://www.unitedhealthgroup.com"}
+      - {name: Eli Lilly, focus: Pharmaceuticals, site: "https://www.lilly.com", trials: true}
+      - {name: Merck & Co., focus: "Pharmaceuticals, vaccines", site: "https://www.merck.com", trials: true, query: "Merck & Co"}
+      - {name: Pfizer, focus: "Pharmaceuticals, vaccines", site: "https://www.pfizer.com", trials: true}
+      - {name: AbbVie, focus: Biopharmaceuticals, site: "https://www.abbvie.com", trials: true}
+      - {name: Amgen, focus: Biotechnology, site: "https://www.amgen.com", trials: true}
+      - {name: Bristol Myers Squibb, focus: Biopharmaceuticals, site: "https://www.bms.com", trials: true}
+      - {name: Abbott Laboratories, focus: "Diagnostics, medical devices", site: "https://www.abbott.com", trials: true, query: Abbott}
+      - {name: Boston Scientific, focus: Medical devices, site: "https://www.bostonscientific.com", trials: true}
+      - {name: Stryker, focus: Medical technology, site: "https://www.stryker.com"}
+      - {name: Becton Dickinson (BD), focus: "Medical devices, diagnostics", site: "https://www.bd.com", query: Becton Dickinson}
+      - {name: GE HealthCare, focus: "Medical imaging, diagnostics", site: "https://www.gehealthcare.com"}
+      - name: Thermo Fisher Scientific
+        focus: Life-science technologies
+        site: https://www.thermofisher.com
+        tools:
+          - [Thermo Fisher Learning Centers, https://www.thermofisher.com/in/en/home/support/learning-centers.html]
+      - {name: Gilead Sciences, focus: Biopharmaceuticals, site: "https://www.gilead.com", trials: true}
+
+  - id: uk-health
+    title: "🇬🇧 UK · Healthcare & Life Sciences"
+    companies:
+      - {name: AstraZeneca, focus: Biopharmaceuticals, site: "https://www.astrazeneca.com", trials: true}
+      - {name: GSK, focus: "Pharmaceuticals, vaccines", site: "https://www.gsk.com", trials: true}
+      - {name: Haleon, focus: Consumer healthcare, site: "https://www.haleon.com"}
+      - {name: Smith+Nephew, focus: Medical devices, site: "https://www.smith-nephew.com", trials: true, query: Smith Nephew}
+      - {name: Bupa, focus: "Healthcare services, insurance", site: "https://www.bupa.com"}
+      - name: Oxford Nanopore Technologies
+        focus: Genomic sequencing
+        site: https://nanoporetech.com
+        tools:
+          - [Nanopore Community & resources, https://nanoporetech.com/resource-centre]
+      - {name: Oxford Biomedica, focus: "Cell and gene therapy services", site: "https://www.oxb.com"}
+      - {name: Convatec, focus: Medical technology, site: "https://www.convatecgroup.com"}
+
+  - id: india-health
+    title: "🇮🇳 India · Healthcare & Life Sciences"
+    companies:
+      - {name: Sun Pharmaceutical Industries, focus: Pharmaceuticals, site: "https://sunpharma.com", trials: true, query: Sun Pharma}
+      - {name: Dr. Reddy's Laboratories, focus: Pharmaceuticals, site: "https://www.drreddys.com", trials: true, query: "Dr Reddy's"}
+      - {name: Cipla, focus: "Pharmaceuticals, respiratory care", site: "https://www.cipla.com", trials: true}
+      - {name: Lupin, focus: Pharmaceuticals, site: "https://www.lupin.com", trials: true, query: Lupin pharma}
+      - {name: Aurobindo Pharma, focus: Generic pharmaceuticals, site: "https://www.aurobindo.com"}
+      - {name: Biocon, focus: "Biotechnology, biosimilars", site: "https://www.biocon.com", trials: true}
+      - {name: "Divi's Laboratories", focus: "APIs, pharmaceutical ingredients", site: "https://www.divislabs.com"}
+      - {name: Zydus Lifesciences, focus: "Pharmaceuticals, vaccines", site: "https://www.zyduslife.com", trials: true, query: Zydus}
+      - {name: Torrent Pharmaceuticals, focus: Pharmaceuticals, site: "https://www.torrentpharma.com"}
+      - {name: Apollo Hospitals Enterprise, focus: "Hospitals, healthcare services", site: "https://www.apollohospitals.com", query: Apollo Hospitals}
+      - {name: Max Healthcare Institute, focus: Hospital networks, site: "https://www.maxhealthcare.in", query: Max Healthcare}
+      - {name: Fortis Healthcare, focus: "Hospitals, diagnostics", site: "https://www.fortishealthcare.com"}

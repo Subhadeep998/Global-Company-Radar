@@ -1,0 +1,11 @@
+data_file: companies.yaml
+pages_dir: companies
+noun: company
+noun_plural: companies
+tools_heading: Free tools, learning & research from this company
+plans_heading: Strategy, launches & future plans (last 30 days)
+plans_blurb: Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion.
+plans_keywords: strategy OR roadmap OR plans OR launch OR launches OR invest OR investment OR acquisition OR acquire OR expansion OR partnership OR pipeline
+search_links:
+  - ["📊 Investor relations", "https://www.google.com/search?q={name}+investor+relations+annual+report"]
+  - ["💼 Careers", "https://www.google.com/search?q=site%3A{domain}+careers"]
