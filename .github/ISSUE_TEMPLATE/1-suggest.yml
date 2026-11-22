@@ -1,0 +1,27 @@
+name: ✨ Suggest a company
+description: Add something useful to Global-Company-Radar
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make this better! Suggestions are reviewed by the maintainer before anything is added.
+  - type: input
+    id: name
+    attributes:
+      label: What should be added?
+      placeholder: Name of the company
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link
+      placeholder: https://
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+      description: One or two lines for other readers.
+    validations:
+      required: true
