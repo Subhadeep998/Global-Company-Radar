@@ -8,13 +8,21 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated —.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-22.</sub>
 
-_Feed populates on the next daily run._
+| Date | Headline | Source |
+|:--|:--|:--|
+| 2026-11-18 | [Georgie & Cog: “The human in the loop”](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTctMDRJM255UlJiYmloZDlYSEtDR3otdXc0NGFabEVWWHk3bGFpVDVMMnphUXNmdWdTNGI0RGZfb3psNnpuTlJtYy1adzdSc3NOd0w3bm1oSGJyblRZSEd2YjR4QURwTnlvM1R5M2NILTRuVl9JdlRQZG5LekFscExpMVE?oc=5) | FinTech Futures |
+| 2026-11-18 | [Bregje de Best to succeed Jeremy Barnum as CFO at JP Morgan Chase](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGZmdVVUckhLUXh1N0lLVnJwVFN0NzNKckZibGhsYWc4bVVJUnh6XzcycE1oUnNhb3pySmRnVl9TZFg2c3FobjFqLTFCTXZhenVLVFRTNXJsR05ST0QwZFRVdE5iX3pLOGtfVHN4M0g2NUwtZ2pOb2Vtczh5QWhzb1RwZEszc1FOX3dLWnBLWVhSR28?oc=5) | FinTech Futures |
+| 2026-10-30 | [October 2026: Top five fintech partnership stories of the month](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2NPNE13NW9MT2ktR1FXdTZEMnZQZDNQVHYxbDQ3TGJRR3NoUkFPUWdDZ0dyVnd1RVdacVlxbXI1RUFhMjVyaHY3YnVwZk9qSUR3NjhKa25HaUg2UmlNV0RpR01iQnJ1dW1takplODVYdUhOUUxFWnNuMmhTM1lPakJ5dG1NTEJfdXRKYWtRWG9JM3B5TmdXQkpZd0xnM2U1eUQxbzBOczVKdw?oc=5) | FinTech Futures |
+| 2026-10-28 | [I&M Bank taps Otoma for automated payment infrastructure](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQk9ydW9DcmFMN0tOODNJY0NTUWxpVHpCZFE3OXg5M3NmNFMtWXYtUDU3T0pGRm5HSXBKWWZheU5sNERkMXBjTUU5NHNfbTkxZFZ5YTJpMDRjSjduX0k3TXoxYnYyOGFnbUlNUmVjWQ?oc=5) | FinTech Futures |
 
 ## 📰 Latest news (last 7 days)
 
-_No major coverage this week — or the feed populates on the next daily run._
+| Date | Headline | Source |
+|:--|:--|:--|
+| 2026-11-18 | [Bregje de Best to succeed Jeremy Barnum as CFO at JP Morgan Chase](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGZmdVVUckhLUXh1N0lLVnJwVFN0NzNKckZibGhsYWc4bVVJUnh6XzcycE1oUnNhb3pySmRnVl9TZFg2c3FobjFqLTFCTXZhenVLVFRTNXJsR05ST0QwZFRVdE5iX3pLOGtfVHN4M0g2NUwtZ2pOb2Vtczh5QWhzb1RwZEszc1FOX3dLWnBLWVhSR28?oc=5) | FinTech Futures |
+| 2026-11-18 | [Georgie & Cog: “The human in the loop”](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTctMDRJM255UlJiYmloZDlYSEtDR3otdXc0NGFabEVWWHk3bGFpVDVMMnphUXNmdWdTNGI0RGZfb3psNnpuTlJtYy1adzdSc3NOd0w3bm1oSGJyblRZSEd2YjR4QURwTnlvM1R5M2NILTRuVl9JdlRQZG5LekFscExpMVE?oc=5) | FinTech Futures |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
