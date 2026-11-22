@@ -270,8 +270,6 @@ groups:
       - name: Thermo Fisher Scientific
         focus: Life-science technologies
         site: https://www.thermofisher.com
-        tools:
-          - [Thermo Fisher Learning Centers, https://www.thermofisher.com/in/en/home/support/learning-centers.html]
       - {name: Gilead Sciences, focus: Biopharmaceuticals, site: "https://www.gilead.com", trials: true}
 
   - id: uk-health
