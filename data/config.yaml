@@ -9,3 +9,5 @@ plans_keywords: strategy OR roadmap OR plans OR launch OR launches OR invest OR 
 search_links:
   - ["📊 Investor relations", "https://www.google.com/search?q={name}+investor+relations+annual+report"]
   - ["💼 Careers", "https://www.google.com/search?q=site%3A{domain}+careers"]
+stat_plans: strategy & plans stories
+accent: "#F2463A"
