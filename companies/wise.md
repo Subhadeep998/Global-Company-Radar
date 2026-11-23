@@ -8,10 +8,11 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-22.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-23.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
+| 2026-11-18 | [Wise Platform grows APAC footprint with BNI partnership in Indonesia](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzY0X294aGhGTzBLUEdSVWFZM2FiYjRuYUxOVjRRZ2ptR1VQMExXa011V1FCSDVtR2tIZXVKOFdPTGk0aEIwSmxfaVhJdXF2ZHNWeDE1QkhjNHlWQ3lwOFY4M1dQX2F1UFBLbkg0RllwY2NsRXlTdDEwOG9oaXc2dkl1S3RIMTZ1cXFYZUM3QlBBQ2wtMHpRcWxhbUs4Q1FUWWVMVkQxSnllVVE3alJScE8xQTNkQ3ppajlfeHJB?oc=5) | FinTech Futures |
 | 2026-11-18 | [Georgie & Cog: “The human in the loop”](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTctMDRJM255UlJiYmloZDlYSEtDR3otdXc0NGFabEVWWHk3bGFpVDVMMnphUXNmdWdTNGI0RGZfb3psNnpuTlJtYy1adzdSc3NOd0w3bm1oSGJyblRZSEd2YjR4QURwTnlvM1R5M2NILTRuVl9JdlRQZG5LekFscExpMVE?oc=5) | FinTech Futures |
 | 2026-11-18 | [Bregje de Best to succeed Jeremy Barnum as CFO at JP Morgan Chase](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGZmdVVUckhLUXh1N0lLVnJwVFN0NzNKckZibGhsYWc4bVVJUnh6XzcycE1oUnNhb3pySmRnVl9TZFg2c3FobjFqLTFCTXZhenVLVFRTNXJsR05ST0QwZFRVdE5iX3pLOGtfVHN4M0g2NUwtZ2pOb2Vtczh5QWhzb1RwZEszc1FOX3dLWnBLWVhSR28?oc=5) | FinTech Futures |
 | 2026-10-30 | [October 2026: Top five fintech partnership stories of the month](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2NPNE13NW9MT2ktR1FXdTZEMnZQZDNQVHYxbDQ3TGJRR3NoUkFPUWdDZ0dyVnd1RVdacVlxbXI1RUFhMjVyaHY3YnVwZk9qSUR3NjhKa25HaUg2UmlNV0RpR01iQnJ1dW1takplODVYdUhOUUxFWnNuMmhTM1lPakJ5dG1NTEJfdXRKYWtRWG9JM3B5TmdXQkpZd0xnM2U1eUQxbzBOczVKdw?oc=5) | FinTech Futures |
@@ -21,6 +22,7 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
+| 2026-11-18 | [Wise Platform grows APAC footprint with BNI partnership in Indonesia](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzY0X294aGhGTzBLUEdSVWFZM2FiYjRuYUxOVjRRZ2ptR1VQMExXa011V1FCSDVtR2tIZXVKOFdPTGk0aEIwSmxfaVhJdXF2ZHNWeDE1QkhjNHlWQ3lwOFY4M1dQX2F1UFBLbkg0RllwY2NsRXlTdDEwOG9oaXc2dkl1S3RIMTZ1cXFYZUM3QlBBQ2wtMHpRcWxhbUs4Q1FUWWVMVkQxSnllVVE3alJScE8xQTNkQ3ppajlfeHJB?oc=5) | FinTech Futures |
 | 2026-11-18 | [Bregje de Best to succeed Jeremy Barnum as CFO at JP Morgan Chase](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGZmdVVUckhLUXh1N0lLVnJwVFN0NzNKckZibGhsYWc4bVVJUnh6XzcycE1oUnNhb3pySmRnVl9TZFg2c3FobjFqLTFCTXZhenVLVFRTNXJsR05ST0QwZFRVdE5iX3pLOGtfVHN4M0g2NUwtZ2pOb2Vtczh5QWhzb1RwZEszc1FOX3dLWnBLWVhSR28?oc=5) | FinTech Futures |
 | 2026-11-18 | [Georgie & Cog: “The human in the loop”](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTctMDRJM255UlJiYmloZDlYSEtDR3otdXc0NGFabEVWWHk3bGFpVDVMMnphUXNmdWdTNGI0RGZfb3psNnpuTlJtYy1adzdSc3NOd0w3bm1oSGJyblRZSEd2YjR4QURwTnlvM1R5M2NILTRuVl9JdlRQZG5LekFscExpMVE?oc=5) | FinTech Futures |
 
