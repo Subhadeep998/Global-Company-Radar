@@ -8,7 +8,7 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-24.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-25.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -34,7 +34,7 @@
 | 2026-11-23 | [Acorda raises £1.8m to stop scams before payments land](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmNHbElodVVyMUd4eTVWVGI3QTFPVmxQWjBvdC1mdEcyN182Rkh2bXFmTXJIRVkyVjRBZGE4X0hzV3hxSUtsaHZxWkEtbzZ4ZXlHYVdxNHZyNnR0b0FPaUJKTUh0R0o2djZNM3BsckJoQTBKYzAwSy1lYnQ0N2U3Q2h2YjlNQ0FielVRVHBGT3ltQQ?oc=5) | FinTech Global |
 | 2026-11-23 | [Former Monzo scam prevention team raises £1.8M for Acorda to help banks fight fraud with better data](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2RlVUZRMjNlWEV1UkNTc2hUemV6bURjNUEtQ1hKdXB0TkdNcWVHajRLeVRBMzhONjgzMjJRcjMyRTNIWkwwRHBSRnY4aEx6WUY1MWlZeW9KR3hZQmFvbnQteGY5MUNRN1p1akpnYVZRaTI3ZHRYQm8zdFVHZE5fR0drYWFiTXV2Y2pyTGswWnJzRC1lbU5tZjM0dWFIYkZQWVZFMjhmUlkyOTM2blJUT0JscG5TdXg4R0ZWcnlrMmphdEdPNFI4?oc=5) | Tech.eu |
 | 2026-11-23 | [Monzo alumni raise £1.8m for startup as Burbidge invests](https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXNWMjdoTGNpS0dONE9GcjNwZ3dfcVd5bm90Zi04bjgwS05uY0ZWSUVua3FrNGlobmw1NU0wVnBFX1BqOThKZ25lZGd6ZEQ4d3A3Wmo4ZFJHbnVFZHhmOXJ0U2x1b2VVcS1jSW1jY3NSYjh2dE1qZktxYkJRYlpwTWpxaGpuYWNIOEl2Mjc1TXhzUWs?oc=5) | BusinessCloud |
-| 2026-11-23 | [London-based Acorda raises €2.15 million to help banks detect payment scams before money moves](https://news.google.com/rss/articles/CBMiywFBVV95cUxNclRpM05acE9pM19CSHJhRTVJVzNLcC1UaGJLMWVtaXRCOERqSE1GM0FZdHBYWGtRc3NqNmMwSHJ5bFdBTmU2U1d2ZlQ2Mk80VlAwUFhrZWZhMURXa2JILWFiRC1YTlFYZVhZTFlySXM1cWJHeWFYT1JVcVcteURwLWUxbkJNRDVSSVNmd2pvT1I0dlhEaFoxYjZTYUlTeEtzN3cxNFNqUnpadnFzTHJBUVFtcWNNbHIya2hYc0lKc09zaURLN2o2VzhSbw?oc=5) | EU-Startups |
+| 2026-11-23 | [Monzo’s Old Scam Team Just Raised £1.8m on a UK Refund Rule](https://news.google.com/rss/articles/CBMie0FVX3lxTFBRM29mb3NvaENUYm5oaW9VWTFjamhJczdtRUdZXy1SOEZ5encwb3JRMTZmelh0a0xNTVQySjRJMHRxQjVXeEppa0dzWlVCN0JYbjZOZjRVb3JKMHVHcGFpREg3b1Y2alJFOVA2Z0RrZWNXdzhXYmZzSmg4MA?oc=5) | Business Model Analyst |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>

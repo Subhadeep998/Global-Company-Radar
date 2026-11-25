@@ -8,7 +8,7 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-24.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-25.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -28,13 +28,13 @@
 | 2026-11-24 | [Niva Bupa launches international health insurance plan with global hospital access](https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1lfYXNVX2tHamwycUU1ZllBbk85am9wWmI2VUtxWldDN2NQOWxUcC1YeUg0Ukh2MVpRZk9BLTJKdnhxYVVpeXpaRWFJWmZpUTIwY1djNUlkREw3NjNQNWgzejhISXU1SktLLURHSm1uc05fYjV1QnB2dlBlUUo3RldocUhEejNnSUw0ODlBOU9vVWFMYl9DOENsVGVGUHpZcVlvRXVNWmd0RnFQWTBv?oc=5) | ITIJ |
 | 2026-11-24 | [Bupa and Dxcover Expand Access for Earlier Cancer Detection](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjdkVW9jaDVrR2F2djk3SUVGWFZfR1hpOThyb3ZLLWZReEc2MXNGUndJd1B5N2NMc1dTSGl0QVIzYTltRjdTRlV3VS1hRjh5OE00VkFmc1NuR0VYMXFJVktJWU5TWFNQWGxsTFlBVGdNOE1RdmltekZpVkd2WW83N19TNFZSYkw0YTNvempCbG1GNHF4WVI5VHZSTzhTRG5J?oc=5) | BioSpace |
 | 2026-11-24 | [Bupa apologises as gay influencers say homophobia made them feel unsafe in own home](https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUtZWGMzaVBlSEwtLWtxYk5TVF9lS2Y2NmUyR25XNENTblNsSWRLbTQ3UXRsSzYyYzdpMHlQSEtlOVhiaUFILVBOa2FIZ2JuYUxiWmNUY2M2eU1BdVFnTGVTUDlIYXo1WjE0VFgtY0RILWtET2tuQVBZYnVDV1lReA?oc=5) | PinkNews |
+| 2026-11-24 | [An organising idea has to organise something](https://news.google.com/rss/articles/CBMifEFVX3lxTE9vUWJJcTBUdUppbG9QOUxzZ1RuWC1mWjVBSmJzU09uMWU3bVJ6OXFaUmZRUzVLLXZxTzhXeElBU2plV09sYzVrcXFKUHNHbDcwcXJkQnVxMFZRMGJadjhkQzhuMm84TGRYTTRVMFBMczBCX0E1b3ZwclJLcW0?oc=5) | Mi-3.com.au. |
 | 2026-11-24 | [Wendy’s, Bupa, Inter Milano, Victorian Plumbing, and DRINKiQ: Top 5 performance marketing campaigns](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWk9rWlFCeEk2T1d6aVphY2xzOE5UZXp6WmthQi1ST2h6U0tjQTNDYU1iWC0tUkNxTHFGRWRuZGJaUnNpOEdlakp1a3NBck9JQXFpc1M0TVpZeDdES1RsY2pQZHRlalRQM2tBQjdrX1VQdVd2MndjQUNCUDc1eGVlbWVXSHA0MVdWZnZsUUp0aE1IMlZ4b29ZYmkzVzItRnJTSmd2dGNJc0hMb3lnTDNLLVQ1QlF3Q0JSaENQTmZaSFR6Y0Zndkl6U2ltc3hfNlF3SDB2TjlrYVpKMndqTV91Uw?oc=5) | Performance Marketing World |
 | 2026-11-23 | [New Products: Say Hello to Bupa Sapphire -](https://news.google.com/rss/articles/CBMihAFBVV95cUxQdElXc0FfS2NsNXlqckE3VG5vdmFGb3ZpNnZZVjNBcGFhOTZZNG1lT1c5MDFQZnlwWUdxa2MyZmxPSXpKd0kzMEFuUGtjOGFfZUFyc1VkMnFSanllRzY3enJSdmdnUWZ5M19oSE1kdHJxdzdTNnVZN0Y5UWRXeWpacG91VGM?oc=5) | Insurance Edge |
 | 2026-11-23 | [How did analysts view Bupa Arabia’s Q3 2026 financials?](https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZ0RqWWVFbUU4OGp5SThKRjkzWVZvQ18yMkFMbnpaMDdSVklzM053OW5uYURfX1Q3cWtFT3N4MVFTZTRLQUp0MnR0U3psTWNFV1ZmUFZsVlZ1OUQwWnI2aWQzQnc3OU5lMWc?oc=5) | ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي |
 | 2026-11-23 | [Bupa apologises to influencers as it launches investigation over homophobia complaints](https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2dtbjdxcHZfOFVBaUk4ZzBseFJqOXZsMmdIT3FkSERKRll6WFQ5X0I0YWdOM0NyNEtoNHJLaFBUSkpLMHdibDlqbmZLZU5Eb2NmOVlaTWlfTllZV2pFQmFUaDZCdm9SS1BKbEZnWU5KZjdHajVJN2QzUlNhSW1SNFl1VzZiaW9lWFpqOHg4T0pjWTg2aVZ1ZlotZ08?oc=5) | attitude.co.uk |
 | 2026-11-23 | [Bupa’s expansion into GP care comes with clinic closures](https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFB0M1g1Z3BudDJaMlVqb2ljM3NyYkhMUXFKSUJNdEk2TkFzR2swRy1WTUlhbVN3SWg4eEJwOU5kcmZ5TWRqcjBGeG5EUGcySndxTkNoUGFId2dSeXV0Xzdoc0xBUHp0OUhoYWxYbTNqRU5UTGMxOTdqaEtFdWc5Tl9DbUF6YV90X0FETWxYQWU?oc=5) | AusDoc |
 | 2026-11-23 | [Wirral care home residents relive the 1950s with Grease-inspired afternoon](https://news.google.com/rss/articles/CBMiowFBVV95cUxPVU1keGdEU1RlZFJlUW4tQ2dkMjh4MTNiT1M5VDMtUVh5eVlHaWJtUl9saFQ4WjdZamxLWE55dUkxQndLT0ExRi1kVGJoVkM3WjN5WVUtMXN5NDhIQ0hLUUt4THhXbEN5WFJHekFxdjBjRTJISHZ5VGVlcE1kdUlBbGRuV2djc21Tb3hHNnlOUDYwS1B4cEpVdHJ3VW9UTm5mdFVz?oc=5) | Wirral Globe |
-| 2026-11-22 | [Bupa Dental Care launches international exchange programme for dental nurses in UK and Australia](https://news.google.com/rss/articles/CBMizAFBVV95cUxPUk5wOXNuRFpsNHB6aUxhakhUb24xSVRLX00tdUtyei1KVFNMenJLVnJkQ0FEeHlJZWcyVWZJU2lSVm9PLTBVY1BibzVidmk0NFB6LVdyVXBhZmRGREprbFJKQmFEMlJHYmxVNFlOUlVUTm1ESGNRVXFlZ1FOc2pYVGVRYVpMWTJ4UFlrQjg4elhFaGNXaTZKRkwwUDNHTGtfX1dtUUExMHlKMmt5aER1MDNBOWpLeFFEOWt3SEx5WmFGY3Y2bjhDT0dFWVE?oc=5) | Dentistry UK |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
