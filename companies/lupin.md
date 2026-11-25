@@ -25,8 +25,7 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
-| 2026-11-18 | [Lupin (BSE:500257) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijwFBVV95cUxPbldlcEh4bEZUX0xYMzBocWRSZGhMa1hYSUR0Vzk2YWkzbVR3Q1h3STRpdnBDSnYxX2h5TjVfSUtyMGoxRHVmRkxCVHJMcV9XQ2hYZkZuMGJPc2F3LWd5TEVlWmZKTU10WVdKNzlnMHd0T2I1VFM4UTJTNmhzQnZHemJTcEgycEtDeDAzeW8tdw?oc=5) | Simply Wall St |
-| 2026-11-18 | [Lupin (NSEI:LUPIN) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0NCU2tHZDJCU25LcVVNTTNHb2MtMmVMbDBpLVpPWmtreWpFNlhJVGI5X3BjYVBJVHNMWlB6Z2dfcmdxQTdxZXNkbWNZbDA3djc4SGtPYVhuRzJiR0ljMlR4V3lzRE5SYkttU3k4dWZnbUZDOW50SzhVdmlfZ3B0MENUdjh1TFJpS21mTXh3?oc=5) | Simply Wall St |
+| 2026-11-21 | [Lupin (NSEI:LUPIN) - Stock Analysis](https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2lKc0g0MmlzZ0dzY0lNOG5FVktKMWJYcTFJb0lPNDZ0WW56cUhPVTY5eW9CRENsdnA2NGljbXZGUXpFTmdYLVZFMm56eDNiUEJ3cmFiNDhkVXl1aG9mTV8wcFFISXNad21hOU96RGJNcXpVSXJjUjVKeVhkazhVV3NpaWM?oc=5) | Simply Wall St |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
