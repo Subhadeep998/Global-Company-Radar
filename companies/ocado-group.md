@@ -25,7 +25,7 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
-| 2026-11-25 | [Ocado Group plc (OCDO.L) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GdUFuUFNFNXd1emVvZjV6TERMRFBiZDJKbThWbjFlbWlpZjZmS3llUENyckU0bC1WTUFtWGZFVjhzSGxOSS1fM2t5QjdkUkhoYlNTeA?oc=5) | Yahoo! Finance Canada |
+| 2026-11-26 | [Ocado Group plc (OCDO.L) Stock Price, News, Quote & History](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GdUFuUFNFNXd1emVvZjV6TERMRFBiZDJKbThWbjFlbWlpZjZmS3llUENyckU0bC1WTUFtWGZFVjhzSGxOSS1fM2t5QjdkUkhoYlNTeA?oc=5) | Yahoo! Finance Canada |
 | 2026-11-25 | [Ocado (LSE:OCDO) Extends Its Robotic Grocery Model for Shareholders Below FTSE 100](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGE5aDNoTEtWcmFkbUduU2hIYy1qUHpNYzRoc0s1Z2Q5TXNDS0ZSckd0WDBseW9rX0U4cnhLbWwxOHBRSHYybEUyazdnVHBQcTExSFlDSHVrQW9iTXJVRC1CM09qcllLVnV5QThwcll4UUtVRTBKV2J5blk0VHNrMXV1bUFOY1NFWU5jQ2M2Ym1RaGpRbTFOVGIwSzAwcEJPbjYyc1VVMDFzMURxUTItWFVIVmNFMHZJbWhIM2N3?oc=5) | Kalkine Media |
 | 2026-11-25 | [Ocado Group (OCDDY) Tops Consumer Staples Quant Ratings as Earni](https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0FIeUNHelZhY2lsQURPbU5TVkVyaTA0ZnpTU29HWFhCUmtjS195Mzl1Q0hGamVHX0VicllVZE9IYy1DZmVVWWkzd0ZvdFlabXRsYTNvbU05OUVFVFduZ3lOOGRaYWNSWWV0V3RYd2tiS29UbGllelRnTnF3bThzVGpIMHdtVlB0dGRCYXo5R29Ec2k2eC1OcmNCSnBjbjk1eUI5QlVQQllpb1Z5enFPbkE1eTFsc0E?oc=5) | GuruFocus |
 | 2026-11-24 | [Is OCADO GROUP (OCDDY) Stock Outpacing Its Retail-Wholesale Peers This Year?](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFdSY2ZxWTFILURodVdFV1NLV0hHSzNseHd3enVJZXhJN2NiLW5zMjhBMzRQbnBjcExpZHI1dVpFUWFZU2NjTU5UZGFQWHA0UllxQkNETjN3S2NuNGNPTFdIZnA5VTAzOGc1aUtiWENkTTJ4UUdCdXVHbS0wQk1NTFphX1E5NF9PU01NX09HNURZVUJ0M1JSUFFIcHRjdXM?oc=5) | Yahoo Finance |
@@ -34,7 +34,6 @@
 | 2026-11-20 | [Market news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTml3aU9ZMkVSUlZsd2tjRlg0S2pyRjRvNERMUGlHVVl1dlhCOC1aRjdsLXMwWlFaaF9ycnNUdGtBOF90SE5mSDVrUHFtZlUyQ3JRTVdwVjZ4N1dRSUJSZTN2dldGY0gtMFdKOWtZeUZZMWdNTmF5QWIzNFhuQkJlb2I0bHJzX3p6d3FVMlJnbnNjd3hjOXlkZS1tZw?oc=5) | Halifax |
 | 2026-11-20 | [Ocado Group plc (0OC.F) Seasonal returns chart](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tamk4bFpFUHF2S2NNUV93WmpoT1Y4cEp2WHVwMzNmWnI5bS14YTlCRFFRY21zU3BWRFdJZXljRU9qZ3JyVDNMLTVELVpUQlBtM2NYZWVUUGRaa3VscVpSTGtKQQ?oc=5) | Yahoo Finance Australia |
 | 2026-11-19 | [The Call Ocado Group Bulls Got Right](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbUpfMldBVXRPWTVyaDQyZG1qSjJDbkF5NlZWSjBiQXZYM2pkWm9MOHBtYVJmMkZIMExkbzlrbVAxUm8zcnMxTDk3Z0kyOHk0UzFLZHJOcUdzT0VtaDlmMFRmV2wyT0tkaEl5Nzc0REJCS0dBaFFHN1NKbmQzd1N5UDJIcXRzR2NidVpCMlhqM2V1Y1RTdUE?oc=5) | Yahoo Finance |
-| 2026-11-19 | [Raising Valuation for Ocado Amid New Partnerships](https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3dENUM1ejZtTHdLNkdlRXAwMUpQdTNIME9OcUx6R2kxOXFXd01VUVlpZkdpclFBMno5YkoxNDYzYlp2LUVYcURjMGxqTnVmNVNuU2psWF93NW5xdlphdExRblJkY2Iyd2ZOV05oWldYcm5xRG52RHdfMFdjTndXZVluTlN5TGVONlVCRXlRNVVHb1k?oc=5) | Morningstar |
 
 ---
 <sub>Headlines and links only, via Google News RSS. Always verify against the organisation's official releases before relying on them.</sub>
