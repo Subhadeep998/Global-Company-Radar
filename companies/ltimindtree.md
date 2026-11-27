@@ -8,7 +8,7 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-26.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-27.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|

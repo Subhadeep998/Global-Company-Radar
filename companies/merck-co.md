@@ -8,7 +8,7 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-26.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-27.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
@@ -16,10 +16,10 @@
 | 2026-11-25 | [Merck (NYSE:MRK) Expands Cancer Research Through AI Partnership](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDhCaUdKaHo2RFRxUE9kXzF1WjluSXNoeVRKdXdGMk9yOWlvRDlsSTRsNzFpU1RrU1ZIUHBwN2hBaVZPUURfY2h6bEhDV3pOQ1dFWk9HeHdHSDBiMmJjQ2VEbGoxTDgzekl1elNCMG1IREFrX3k4Q0x5S01mcE55REU2UjNCdXQtMks4eEwxUVhVSVpUMjdqQjFsYlhwamYxMW5VT3VUN2pVdw?oc=5) | Kalkine Media |
 | 2026-11-25 | [Merck & Co. stock gains 2.01% to EUR 129.65 premarket](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN25RYUR2QVRqOGV3c1hrXzdiampMRHdvVTJFYjczUmJKUzFJbi1SeVFRMWlqR3V3UFQxZURKQ0xTN255TnlYNWx3Sl9oZENsS092aVp5UEFCRnphMm1qVDlRbW1wWnBxTU9yaENTaVhMQ2MtMW51U0RaY0FFSG16MHB6ZlZwWGdiUi1nNVNFbk5jZk9zLWFGTlhXdldNMDFVN3pIVFdWQjNVY0E?oc=5) | ad-hoc-news.de |
 | 2026-11-24 | [Merck & Co Inc Stock (MRK) Moved Up by 3.22% on Nov 24: What Signal Does It Send?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaG5qUGUtMnpZdWQzLXZXMmRNQjU4dHFubC1aU3VQaTN5QldRVEd3VHV4cnZoR09QYURmN08tWG9LVFJrUmtkZHlJQ0paN1RrY3dQdklJRlNWOHNITWJCY1J3R0Z1bEdZVGZhS1otQy1WSFVhN01fQnRSeW5OeDl0UUQzMUk1ZWF4bFE?oc=5) | TradingKey |
-| 2026-11-23 | [Merck & Co. stock: Erste Group raises FY2026 EPS forecast](https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHVEekFGWWF1WUF5ZnF3QmxKQy04YnJEd0JmY0lzdzkwbWI0dTFhX3B3YWdiWFVPMHA3MWRSUFpjRFpZd281bmVnaHBucjJlczE0Y2V2dWtkbk14dGxKcEVpWDBXeW1VTjlyZkg3TjNWd1VrQ2JsQ283MlI2QTRFbnhYRXFhUlpIbWw5WkRUTi1qUVBOdjdlLVNGMnMxSXUxNkpLR0htZnAwRUpJUTBMMXlPci1QaDQ?oc=5) | ad-hoc-news.de |
-| 2026-11-21 | [Merck & Co. stock: Efinopegdutide clears MASH trial endpoint](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTV6T09IaTdtbWhSbVIteGZOZzVGSjBjd1JFSUEwb3pRcWJtcHpHa2FvaXNoVEpyUU1wVmJiemQzU1RBYzhWTk12ZVZ6T01KMjk0R3VYT1l3QVBxOUlIS1NmeDh4Y0tSeXp2MWhwbTQ2b05NQ3UxaXhrOVlTZ2ZLM3h1ZGgyOHBoWnJ0bWgyS09JRUY5V2dfV3hoUkNBemh4ZHVlSlgxRTE5a2U2WElQR1BSSlFib0ZlUjZB?oc=5) | ad-hoc-news.de |
 | 2026-11-20 | [Advisors Asset Management Inc. Makes New Investment in Merck & Co., Inc. $MRK](https://news.google.com/rss/articles/CBMiywFBVV95cUxNR3MzcHVjeU0xUnU1dzJWcmFVSDlVdF9teTUwTVAwS0JDVzVnMG1hN2QtRkhoWFBIYkNTOXIxUmN3VG9GaWt0V0NRUXhoeUV3LWVvMmFjR2F3VGpScF9PekFGaHlFWFZScDVFU24xSUZ1VVJRMGdfRlNlMXlteVNHdVZ4NUVhNEhTUjZXcXN6UW9EbXAycHlXU2hMd2VYMDVaQm9SdWFNdzlTS19wZGlneEQ0SEo4c0VhemdrTFkwd3k0d1FuOHNDSXJmVQ?oc=5) | MarketBeat |
 | 2026-11-20 | [Merck & Co. stock enters AI drug discovery collaboration](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVQzVFJtSnFacDNGQnBUMHR6TDlzNTZoNUZFWTRRTkNhZktkaDhEdTlYcm1mZTVRWGtpdm1QNWpwRjlja2VGdzBDd09RQjRSWDc5SFN2alpJYWg2N0ZILUJ4R3lGMXJFVkZFYmo2MWhia2FnMVFRU09scGxVOXhKaXZCTGljOFpGMmh6M2U2NUZfN3ppWGZjbS1JaG9OVFZIT0psVDBHWnVKdjFOYV9PUVBXR01qM1k?oc=5) | ad-hoc-news.de |
+| 2026-11-20 | [Merck & Co. stock: Phase 3 drug trial meets survival goal](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGoyV3JCZ3VVTDA0QzkteGEtWWJSbEE2WU9zWkZQTXkwMXB6SmN3WkJBeVZoaTFoVEVfRlZFV2gzY01BSC03VjFTMzdZWS1QbGhtYkRtT0htekhrUEp6LW1tUFBMLUpib0ZLaVFxbUZYek45VkVaWGM0WGNlUjlqOGdfSHpuWmlxeHJmSTBqNVNaV0VBSF8xNEllaWxfZ01NUVVicm1kVExkMGpQR3RqN1oyVVd2WW8?oc=5) | ad-hoc-news.de |
+| 2026-11-19 | [Merck & Co Inc Stock (MRK) Moved Down by 3.02% on Nov 19: Key Drivers Unveiled](https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFZENmcxOWtFT3ZfSFBjZ05KQXA4Ul9VMUZGZU43eTdVTjNianlzRE5POUlCQnc5WjRPcGJuWTJvbHV5OGFlU2laX3U3X0pLdDFsdFR0Y182UWlydEVqTFJrR3NkU3pDdU5WTkpadVZpMTJPV1RaQTFTLVdUVVBseXpEbk5PMW0xTEE?oc=5) | TradingKey |
 
 ## 📰 Latest news (last 7 days)
 
