@@ -16,7 +16,6 @@
 | 2026-11-18 | [Wise Platform grows APAC footprint with BNI partnership in Indonesia](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzY0X294aGhGTzBLUEdSVWFZM2FiYjRuYUxOVjRRZ2ptR1VQMExXa011V1FCSDVtR2tIZXVKOFdPTGk0aEIwSmxfaVhJdXF2ZHNWeDE1QkhjNHlWQ3lwOFY4M1dQX2F1UFBLbkg0RllwY2NsRXlTdDEwOG9oaXc2dkl1S3RIMTZ1cXFYZUM3QlBBQ2wtMHpRcWxhbUs4Q1FUWWVMVkQxSnllVVE3alJScE8xQTNkQ3ppajlfeHJB?oc=5) | FinTech Futures |
 | 2026-11-16 | [Brazil's Itaú Unibanco selects Harness to overhaul software delivery](https://news.google.com/rss/articles/CBMingFBVV95cUxOZWItZzBxSUNyWkQwVjkxVjNZOXFndDk4aUV6N0I0VjJ1cnJqQlRDZE0wZWRBU0ZXZ1lXWEJoSXFjU2M5QTRBWjRLSWZWMjZmMnRSbldBSVVSNXd4VW1GRkVCYW5CN0g4N1BTTnlTN082SHFTcGR2YlZxQ3JGS0llVVhMQ0dIV3dhQjJWMF90ZEVpOGVsMkExelVCSUNvZw?oc=5) | FinTech Futures |
 | 2026-10-30 | [October 2026: Top five fintech partnership stories of the month](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2NPNE13NW9MT2ktR1FXdTZEMnZQZDNQVHYxbDQ3TGJRR3NoUkFPUWdDZ0dyVnd1RVdacVlxbXI1RUFhMjVyaHY3YnVwZk9qSUR3NjhKa25HaUg2UmlNV0RpR01iQnJ1dW1takplODVYdUhOUUxFWnNuMmhTM1lPakJ5dG1NTEJfdXRKYWtRWG9JM3B5TmdXQkpZd0xnM2U1eUQxbzBOczVKdw?oc=5) | FinTech Futures |
-| 2026-10-28 | [I&M Bank taps Otoma for automated payment infrastructure](https://news.google.com/rss/articles/CBMib0FVX3lxTE9WQk9ydW9DcmFMN0tOODNJY0NTUWxpVHpCZFE3OXg5M3NmNFMtWXYtUDU3T0pGRm5HSXBKWWZheU5sNERkMXBjTUU5NHNfbTkxZFZ5YTJpMDRjSjduX0k3TXoxYnYyOGFnbUlNUmVjWQ?oc=5) | FinTech Futures |
 
 ## 📰 Latest news (last 7 days)
 
