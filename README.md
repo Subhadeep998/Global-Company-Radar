@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/Subhadeep998/Global-Company-Radar/actions/workflows/daily.yml"><img src="https://img.shields.io/github/actions/workflow/status/Subhadeep998/Global-Company-Radar/daily.yml?style=flat-square&label=daily%20news&labelColor=0D0F12" alt="Daily news"></a>
   <img src="https://img.shields.io/badge/companies-75-F2463A?style=flat-square&labelColor=0D0F12" alt="75 companies">
-  <img src="https://img.shields.io/badge/updated-27 Nov 2026-00CCBB?style=flat-square&labelColor=0D0F12" alt="Last updated">
+  <img src="https://img.shields.io/badge/updated-28 Nov 2026-00CCBB?style=flat-square&labelColor=0D0F12" alt="Last updated">
   <a href="https://github.com/Subhadeep998/Global-Company-Radar/stargazers"><img src="https://img.shields.io/github/stars/Subhadeep998/Global-Company-Radar?style=flat-square&color=E6B85C&labelColor=0D0F12" alt="Stars"></a>
 </p>
 
@@ -27,16 +27,16 @@
 
 | Date | Company | Headline |
 |:--|:--|:--|
-| 2026-11-27 | [**Microsoft**](companies/microsoft.md) | [Microsoft Wants to Fix Global Outages in an Hour. It Has a Long Way To Go](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHRxZDQxU2dSX2Y5WnV3Qk53SHp5Mk1UaWg4QXlaZmVaeTFiak5YSFVLVWlyS1o2TG1GQUk0VDUxTWxKcVZPcnBXeDdqQmg2ZFJVc21TeEEwOThmQmlOdzhoSnd2ZGFLbm02Z2VzT191MFdTZlFja0pSNHo3dF9HcURvQ3VPNmVtUnV6VUhlbmZWWkZUSUYzV21mSlNvVUlDdXpwR21ueEtzRlRsbnluSm80OHQ?oc=5) |
-| 2026-11-27 | [**Apple**](companies/apple.md) | [Black Friday Apple deals 2026: Record prices on AirPods, MacBooks, Apple Watch](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DTUxKNXNDWGFDTW9LcmtmeUxDUjM3UUJqOG1BbWFsRk52MUZoem0waUNCRmQyYjJMWlh3V1kxaXhxaDZkTGNWX1B0bF9uVFdGLWxrNW1faVVPVjl1dGplbmNDYnk2Zw?oc=5) |
-| 2026-11-27 | [**NVIDIA**](companies/nvidia.md) | [President Donald Trump insists Nvidia CEO not a security threat](https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUJqRjk2S2tJYXVNYlNhNlZnQXdQellKRjBSWXg5UTVwWGJ1NUgwMzhvM0lVLUlfSFVhbUo0azFoTjU3VWxuTWtGZFBMSWhMVGN4Zl9wbzZKSFhZVEpQUVpST3dwY3pqUVJYMFFBS1JkbWtzZS01TV9MLVgxSHpSNHludWpHOWhHcGc2WFhkOFFIeGJTNURlbk5GZk8zS1JjMmhKQkR2QmxfQ0EyVjRRaUVRZHBTYnpYdXNrOGVtTHBZYVFHV2fSAcwBQVVfeXFMTnRXZmVORlpZb1FSaDRFaFpkZVdWU3BydlVMaGlET0R5Nng1WkRGNXEzNkRHakoxZnNZS2x4X3JrS2xRc3k0VWpNTlR2VFBFSGxZM3l4NHVKZnJCalRpX1YyMjI2UnNodHpwblEwMWFnZExiT01ZdE9BWEVnZ2ZUNksyZ0VwNnREdlJIdFhHME1SOEh1QlBhaUszUDFyWVM0bHZoNUpteU1QTllwQ1lvWm5VTVlLWW1acEpPS1g3YVZZQ0RublNKOEdzT2FR?oc=5) |
-| 2026-11-27 | [**Alphabet (Google)**](companies/alphabet-google.md) | [Behind Fujitsu and Google Cloud’s Enterprise AI Strategy](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRUdoY1B0b2RoZUpHa1dzSFhXa1hYQXpwZlZYX2UxblphRVZWT3R4YW1MTi1TVWN3cUtTdm94a3FCcFd6b3VyQW84M3BPdC1nd19iemdRSW9GWFAyWWFJcURfQnVIaGFKZGRCMHllU1BacGYzQUNtdnZlMFZraGNUZmlsSDZjUlJiRzVJ?oc=5) |
-| 2026-11-27 | [**Amazon**](companies/amazon.md) | [Weeks after Canada union win, Amazon workers protest in Germany, the US, Poland and Brazil from Black Fri](https://news.google.com/rss/articles/CBMilANBVV95cUxOZTQ5cVNLdndHVTZxY01kWERXWjA5RXBjS192V2lnak05TnJWeVM2dVhaazkwV0NHMVpVbWtSUThxNHpITnpxN0JkX2tSYm55ZGRzVU1GeDhzSlYzN21xNUlQS00yUGxueE9kLVU0SUZjZHRQODJQZkJFU1JYWjkyV1V2bEk2UTdwYVFSM1MxdWgteFFDNVppeUJ4NWJ3cGFoRmk0aGVTUlJhNDZMNWZnMUMwV2tIaEdqaXZJRnktUXVTbXFJcDJ0dHpNbW5xNXBGbElEWWZTSGJDd0JKaTlfcW9RLTVMVTBYSkFKZURGX3JsWHRVUXZFNm1GVWhhb3R6V3U5TnpVcGVJaU9hYWpjU1JUYnpjOE1RUzVfRDFHSlpQemowUkpmbmpMTTNfb3AxMURDUWdwcFVwWi1MVmp3WTFVQXZkNm81NXh1bWJCeU9mbm9ta3h6ekQ2dHpIZkxIN2dLQkYzVndzNUFWa1EwRDF5Y3VnRmhsR05oeVh1QlRNV2NoUGYyZ1VmeHJzcXNyeVduYtIBmgNBVV95cUxQZVJ2OF9nNXZ3WXFaSDFMdGhjd1Jzb0x6Vnk4eGpQVDB5ODBKQUltMlg1UnA0OUNyZU9CeDBmWmtqYWFwYVhuZjhRY1VocGRSWkZVeXBuX1lneUl6eVI2ZWhpR3pSclFyRFF6c0c3dVNlRjFYWDZmMEU3T0d0OWNIaE9EZ1pKN3pVbWQ3TTVNTDlEV3VvQnBvdjk0Nkw4Ym0xOFM3cFBLd1BoejdMdFRVTnJnS2JFUGFTbEdVUUthdE5DNklmNUFxZmd0QkFPeUl0OVNRWWYtdlRRUFExSkJRNE1qakN6WXpscFR2VzRER3VOUUFFeU9xZ0ZYT3I4cVVvSE1VM2wxWHEyMHZBbktnTWxKT21WWlU2ZHo0OFBhTXJHZlJVRW9qNlhKMXk5cHRfQVRNQVBlY3RDQURsRndoWWpSVzlpZjZsMGpGSG9TNzI3dGY3SUtWVWxVblhCSzNkWFpZNUJwYnJqVGJnd0U1SzJKQl9VODhHUXdoM29XX2lJWU5ZMWxCMDFVcXBiSWx5eFNsZVR1ZDQ0Zw?oc=5) |
-| 2026-11-27 | [**Meta Platforms**](companies/meta-platforms.md) | [Artists leave Instagram, Facebook over Meta AI concerns](https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0c5TTZLSG0tNWlWQVRKeDI5ak52N3VYMXVOREozbDNYVlAwQnoyd0U4c29nbElsOHJab0I4OHFrLVJ6c2o5Z2laTzk2NE5VRXI4RnBlNWs3VGktZjNuUUgtZ00wZDJ6bHhZN2lTU0w0REtkVkppMzJkMGhDMVRuMi1zTFVvaFZLLVlDeTZTSXgzNnVSOTF4RzJiVzllQW94eWVZ?oc=5) |
-| 2026-11-27 | [**Oracle**](companies/oracle.md) | [America’s biggest investor Michael Burry warns of AI bubble as Nvidia, Oracle and Meta face rising debt r](https://news.google.com/rss/articles/CBMimgJBVV95cUxOY0NwUEFPRDNhMkNreUR5TFR1QmVTQ3BUd2htZVdSMlhtMHlTRlg5X3djOE1GQ1A2MjdWRVd5bHRDaHdiNVhzNkFfVGNmZEJwbFdqSEdyTVFmU2VPWEt1RDJObl9PTmNGWHBwdTlMQjhRVjlxLWZSWExoZlFBR2ZVWExlY0RBVU1TWmE5MnpFNjlVV1NCUnBOLVRiMWMtZWVwOEVoc256TVRPOXdaWWJQRjFweURZSUVES1Y5S0lhRjhZM2syLUdMN09DbW1hcmFRUE85OTdwT3dxN1I0R0EwZVR2RXRUWjE1bkFJTkNMZXB2VGlvVXJia3lkdUJSRVBxcHRGeG1VTC0xWldreEdld0txNUhyVnhKTWfSAZ8CQVVfeXFMUEZPeF82OEdfMzlWQ1hIYWxFMkJad1BYblRDdWJHNkNUWVk3U2xpU3FSMVEyQ2cxcjh6aWplQnAtN202SF9fSG5QV1lOYjJDWE03VnVITHo0V2tsaEhHMGdkVVpSUzc1SlA1OWdWMkZ4WGtXN1RGVEJhWEprdDhRMExZNGpVNGtrX1loekxMcjViTDhKSXdWYmJTN0lHa0ZXcDVKYkNyZjhqRWpXemlNME9kaDNmMm9qZEFPWnI1dlBmQ3ZieEhZQ0lwNF9NOEYybkRBQVEtUDNSQV9BUm0wcEppNkdrRDZNV0VuVkJrbVdEY09QRnVDV3E0SGI0Z3oxRW9HSWFMNHUxYWJBdTNHQjRNWEdjZVJBOEZDQVR6LTg?oc=5) |
-| 2026-11-27 | [**Salesforce**](companies/salesforce.md) | [Salesforce FIDE World Championship Match: Gukesh and Sindarov size each other up – International Chess Federation](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3FXOExhV2czeVBrdzMyUlpJLWhoelVheHRHRjBoczlVMnBNdXBSOUcyZTJGOEdMckJnVUx2RHJ0dHpzZVIxWkdWYXl0Q3VfSnZiSGI2bWo1YXl2NTBaMUxfX1ZCdDhRYXlsUmlTZ3ptSElCTE50SFpLNmE2TjZUQVUxNnJuemNFRUVkNzF3SVZKV1c5TmVMY3RTUV9xdnp3NEZV?oc=5) |
-| 2026-11-27 | [**Adobe**](companies/adobe.md) | [Adobe Integrates PDF Editing and AI Summaries: How Acrobat Is Transforming Enterprise Document Work](https://news.google.com/rss/articles/CBMidkFVX3lxTFBDLUhQYmpQSm9oZFdiQzdEdXR6amgwZDFrOWs3X19VTzVFRl9Da2FMemxHNWIyM1EyM2xkanBPRXF2LUgyNjFEZ0p1VW5rSGxVWEw5S1hYREZtUzI3czY4ekwtUFZaWHNlUnIwWEFoUmNnWVdIUVE?oc=5) |
-| 2026-11-27 | [**IBM**](companies/ibm.md) | [IBM ends H-1B, green cards in consulting arm](https://news.google.com/rss/articles/CBMixAFBVV95cUxQelhTcWs3VG9lTE4xRE1fUkx3UHlxNkRkMVJHLUxvYUMxU3hVUk1yZlUzTlZ3WkxQX3NKMGZlUHp3SnNaWGg3WDI2bTNOczY5LWpvOTJqdVZKOXJQbWVHN0xBckpwXzhRcGFTN2xvRUZrNkh2ckh4MGxkSEE3cXk0a0ZORXo1djZGNTJQaXp6bm9YR1RIeWVQak9TY0swUGdlLWh2ZmE2bzYyRGx3NS0zSTB6WC1teGNaaHo0R0hzZS1yTHJp0gHKAUFVX3lxTE5XanF3MFUyczl6YW4tc05hVnJ4QXE4S2JuR3FfRjJtcXNuNHFKSi1ycmxsZE5pQ1E1MmN6dExBSzkzd3huYkJieHpWWmV6TGs0eW1HNU51UVh0bzlBWlplWTBsTUlpN29mZVNFYjJ4U1dkOW44THNpN1ZMQkpLSGNLelVoMTJDTDBMZzJIeFg5Z3pZb2h3cUdPZjEyOUhPZ2RNV05RLV9na3lZbWpLQm82bXVQUGZjQU00bkNjeVpVWERIMWQ3OGZVUHc?oc=5) |
+| 2026-11-28 | [**Apple**](companies/apple.md) | [OpenAI countersues Apple over trade secrets as AI race heats up](https://news.google.com/rss/articles/CBMirAFBVV95cUxON1UyNzVUM1VWYllDUVB5Rl9LVDYwZExiMWt2WFp4eWVUckVjdDhqbFFfSXR1b2NiRm9LbFZQZ2xlZTNkRmtaSkZnb2M4ekJwVkVxbE1jdmNlazc2QUMxallwb1JpTWRvVk9ZOW12SVM5MTZ4RS1CQkNGcW5qZlMySWJZTjBkNXBtZXByR0NuVWdJZWVXWW8zcWRsTUF1ZUJXMlNVNWxEM2l0VThn0gGyAUFVX3lxTE16T05QbEdEbTdCUklBU3kyX05YX2RxaTZrVl9yWTEtWDF4dThXOFAyODNDTjFHTy1LRmJkZEJpd1E0eTBOaWxkS0NXV1BIWFo0V1ZTU01JMzd5bVpkMHFWTEhSNEVBT3E1cXd1NVJFbEJtSXFURGpxMzlKOWtNTXg1amFKZDhEOWttUlhkU1Y2UmVnSUgwRWZqWmJmTzdRaVBNM01pczFxTnh0RzYxRk02MFE?oc=5) |
+| 2026-11-28 | [**Alphabet (Google)**](companies/alphabet-google.md) | [2 years, 600 days of coding: How I landed a Google internship at 20](https://news.google.com/rss/articles/CBMihAJBVV95cUxNYUtuc0MxeFA0Q29UQzh3cmI4elRwQWFwWG5fYnZyZC1md3Yzb0pEZEU4WlFPdk9Xek14UHJoRHMtdjNrZGM5NHdlT1ZCaHNVQm04OHhTYThPYlJycF83TF9lbXBOSFJPcHZCSFlQZFEyNl9sYmwtQUlaenVsdVZNQkM0bmUzRkRfbnN4eFB6LWZCdWNUc0VBT2hTT1VlSmJGdHUzQTFOY2dUdUl2LU5LaHE3Ulp6SkdjNXd6Rl81U0NkYUIyb3dYQTRPWi1iZURBTm4tNXRGR2dfdlFVbmxoVFRfRnNyU1ZJRzdJblF0bkRzZC1tMWtKZHNkOUQ1ZVhQQU1fM9IBigJBVV95cUxPUFBHSmpvUXQ5Tk5qRTgzdHNlQnBHdmVNaWV4aGdhUms1eFlxRVVEckNOYjAzZHdXb0hpS1c3MlpaaThBWmxIZ2otZE5Iek5ndmNsQkRFdHFYOXlLRUd5dVJxQUJ6cGhoQTZEV3BSTG52MTM3UlRFYUJfSFA3N0NkRkcwYVU1bW41b2hiWG9yWUJiOW9vY2Fsd25iVXluUG4zem45blNJX25aMm55WllLTVktbmdZNEk0TlFheEVUUk1ISkVwNk40cTlsNDIyZV81UzROT1BDeU5XYVRQUVpYeHlYTGRZTUgzUXBMUG43S0FzV1FKUjQyQVhfS1RKNWRydDd5eE1Xdm5SZw?oc=5) |
+| 2026-11-28 | [**Amazon**](companies/amazon.md) | [Are Amazon's Cyber Monday deals better than Black Friday? Our shopping experts answer.](https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU1PVExYVDJvTWg2dEFIdmgxUzZrU3U5QzRBdEF5eFZXWF9LOXR1dG9LdzRDMG5OQjNFN2U1azRYSmJlV1AtcEJRMlQ3OF9neU5GNzBRcEItRjNELU9OSnJ0cldvT2dYaHJMRzZ4X1N0WWt2NUZoRXBoYTFtbEZiZlloQQ?oc=5) |
+| 2026-11-28 | [**Salesforce**](companies/salesforce.md) | [Salesforce FIDE World Championship Match: Gukesh and Sindarov size each other up – International Chess Federation](https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3FXOExhV2czeVBrdzMyUlpJLWhoelVheHRHRjBoczlVMnBNdXBSOUcyZTJGOEdMckJnVUx2RHJ0dHpzZVIxWkdWYXl0Q3VfSnZiSGI2bWo1YXl2NTBaMUxfX1ZCdDhRYXlsUmlTZ3ptSElCTE50SFpLNmE2TjZUQVUxNnJuemNFRUVkNzF3SVZKV1c5TmVMY3RTUV9xdnp3NEZV?oc=5) |
+| 2026-11-28 | [**Adobe**](companies/adobe.md) | [US Black Friday online sales to cross $13 billion, Adobe says](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2loNkhNMG01Y25zc2J6ZzlvOHNwS1VpVko3MDBMeF9CMFpTVGhFR2VDSmlaY1UyS25Tam81eGdHSlFid1lVajIxTFVPWWt6ZzQ4dW9UaEw3TFRZR3NzMi16SEJSdDdqLW9IMVdsYkgtQTZYTl9mQnlYLUh6T0dSV1Z4ektOMjlKUC1MUU0xbGlmVU15VUNndVgwNGlWc2YtNWs3NzhhTTJnUmhOS050ZnBla2RiT2Nn?oc=5) |
+| 2026-11-28 | [**IBM**](companies/ibm.md) | [Transforming technology spend with TBM](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5haUI5V0FkUjE2NkZOOFdsNkVVZktxSm8zTDZPSVF1eU9iZHI1YU9qRTgyNThIdm5iOWZtTzVzcUFJRmtuQU1qUlluZ1NhTEJfRlpMQWVBOTFFUQ?oc=5) |
+| 2026-11-28 | [**Intel**](companies/intel.md) | [Arista Networks, Intel among market cap stock movers on Friday By Investing.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUxDMDMwSmJseTkyU0JWMmtxbk9SSVE0VzI5YmlYaTRqWFRiS2E3cXpFYUhzMHd2ZURpQ1RHVXhxdFVORnlZbndBYm5hS0hXUUYyOWpwRy1BZ1hXOTQ5bklQSjFPQVRYZGdlbnZudUxEeEtLVURzcExOWWNzS0ZaM2Y3ZU8wbXhWd3dhRDkyb0RZTDNTcE5nZ0NZbTNmOGNPYVQ2Y0pELXBFT0VYTHh2RTZYNmJnbXZKYmgxZlBYOA?oc=5) |
+| 2026-11-28 | [**AMD**](companies/amd.md) | [Nvidia vs AMD GPU: Same $549, RX 9070 Runs 17% Ahead](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNW93U25wMjh6eG9SN0ViZlZhNlcwZ0ZXUmtDalA4TVJJcGRFUzJQa3EyRVd5RmNJMWNEUU5fTklURUptanhtVWcxeUJVWkwzSERrcS13WExabmw4Rk4wd1FUV2dDRWtieHM3OFZ6Mmh1aE5IUHdoS21SRVQyaXpjUGR1eGlmeV9CREhGZVlQYXl1MURNeXVHcDNOZkw?oc=5) |
+| 2026-11-28 | [**Cisco**](companies/cisco.md) | [Cisco Systems (CSCO) Expands AI Security Push With Two New Enterprise Tie Ups](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlUxWDBRbkpsSzJqaXFiS2xoM1NNTVNQcUpGZmdkbTdKM25zc0pJOGozMTJ1UlJNR0lFbTZ5VFYwSlAzbzFfXzVZb3VQZzR0ZmxhNHRrcHlNVHpXS01kT3R3cXR0aHdZTmRQMG1VTVF2ZUctLU9pWW1JZWJkc2xlcUxGcWZpRDlCR0lvSS1MR2JMZmRaVGFlUA?oc=5) |
+| 2026-11-28 | [**Palantir Technologies**](companies/palantir-technologies.md) | [Palantir Technologies (PLTR) Signed A Poland Defense Software Agreement](https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTBVdWFqRFFUWS1RNWFsTHgwS25MWWtuVmRDN2M3UGxKT0VDSHYyQ3dBOVc3anNMdjM4Z0NSZ3B0UGZGc3B3LTNPMXBpTlJoVWVUVEpvcl9sZmxOenpSR1E4YWNScHZ0a3cxT25rUEVwN1FNcXdKaVNKSUs3Y1ppcVRkNTllcFNkWERTWnpSM0k5N09wUHdxVVp2b3ViSlVSNE5Pc1U1bw?oc=5) |
 
 <p align="right"><a href="NEWS.md"><b>Full daily digest →</b></a></p>
 
@@ -98,19 +98,19 @@
 | [**Darktrace**](https://www.darktrace.com) | AI cybersecurity | [Open →](companies/darktrace.md) | 5 |
 | [**Ocado Group**](https://www.ocadogroup.com) | Robotics, warehouse automation | [Open →](companies/ocado-group.md) | 10 |
 | [**Monzo**](https://monzo.com) | Digital banking | [Open →](companies/monzo.md) | 10 |
-| [**Bytes Technology Group**](https://www.bytes.co.uk) | IT services, software licensing | [Open →](companies/bytes-technology-group.md) | 10 |
-| [**Kainos**](https://www.kainos.com) | Digital transformation | [Open →](companies/kainos.md) | 7 |
+| [**Bytes Technology Group**](https://www.bytes.co.uk) | IT services, software licensing | [Open →](companies/bytes-technology-group.md) | 9 |
+| [**Kainos**](https://www.kainos.com) | Digital transformation | [Open →](companies/kainos.md) | 6 |
 
 ### 🇮🇳 India · Technology
 
 | Company | Focus | Profile | Headlines this week |
 |:--|:--|:--|--:|
-| [**Tata Consultancy Services**](https://www.tcs.com) | IT services, consulting | [Open →](companies/tata-consultancy-services.md) | 4 |
+| [**Tata Consultancy Services**](https://www.tcs.com) | IT services, consulting | [Open →](companies/tata-consultancy-services.md) | 2 |
 | [**Infosys**](https://www.infosys.com) | IT, digital transformation | [Open →](companies/infosys.md) | 10 |
 | [**HCLTech**](https://www.hcltech.com) | Engineering, IT services | [Open →](companies/hcltech.md) | 10 |
 | [**Wipro**](https://www.wipro.com) | Technology consulting | [Open →](companies/wipro.md) | 10 |
 | [**Tech Mahindra**](https://www.techmahindra.com) | IT, telecom technology | [Open →](companies/tech-mahindra.md) | 10 |
-| [**LTIMindtree**](https://www.ltimindtree.com) | Cloud, data, AI | [Open →](companies/ltimindtree.md) | 4 |
+| [**LTIMindtree**](https://www.ltimindtree.com) | Cloud, data, AI | [Open →](companies/ltimindtree.md) | 3 |
 | [**Persistent Systems**](https://www.persistent.com) | Software engineering | [Open →](companies/persistent-systems.md) | 10 |
 | [**Coforge**](https://www.coforge.com) | Digital engineering, IT | [Open →](companies/coforge.md) | 10 |
 | [**Zoho Corporation**](https://www.zoho.com) | Enterprise SaaS | [Open →](companies/zoho-corporation.md) | 10 |
@@ -147,7 +147,7 @@
 | [**Bupa**](https://www.bupa.com) | Healthcare services, insurance | [Open →](companies/bupa.md) | 10 |
 | [**Oxford Nanopore Technologies**](https://nanoporetech.com) | Genomic sequencing | [Open →](companies/oxford-nanopore-technologies.md) | 10 |
 | [**Oxford Biomedica**](https://www.oxb.com) | Cell and gene therapy services | [Open →](companies/oxford-biomedica.md) | 10 |
-| [**Convatec**](https://www.convatecgroup.com) | Medical technology | [Open →](companies/convatec.md) | 9 |
+| [**Convatec**](https://www.convatecgroup.com) | Medical technology | [Open →](companies/convatec.md) | 8 |
 
 ### 🇮🇳 India · Healthcare & Life Sciences
 
@@ -156,7 +156,7 @@
 | [**Sun Pharmaceutical Industries**](https://sunpharma.com) | Pharmaceuticals | [Open →](companies/sun-pharmaceutical-industries.md) | 10 |
 | [**Dr. Reddy's Laboratories**](https://www.drreddys.com) | Pharmaceuticals | [Open →](companies/dr-reddy-s-laboratories.md) | 10 |
 | [**Cipla**](https://www.cipla.com) | Pharmaceuticals, respiratory care | [Open →](companies/cipla.md) | 10 |
-| [**Lupin**](https://www.lupin.com) | Pharmaceuticals | [Open →](companies/lupin.md) | 1 |
+| [**Lupin**](https://www.lupin.com) | Pharmaceuticals | [Open →](companies/lupin.md) | 2 |
 | [**Aurobindo Pharma**](https://www.aurobindo.com) | Generic pharmaceuticals | [Open →](companies/aurobindo-pharma.md) | 10 |
 | [**Biocon**](https://www.biocon.com) | Biotechnology, biosimilars | [Open →](companies/biocon.md) | 10 |
 | [**Divi's Laboratories**](https://www.divislabs.com) | APIs, pharmaceutical ingredients | [Open →](companies/divi-s-laboratories.md) | 10 |

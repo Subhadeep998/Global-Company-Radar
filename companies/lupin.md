@@ -8,12 +8,12 @@
 
 ## 🔭 Strategy, launches & future plans (last 30 days)
 
-<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-27.</sub>
+<sub>Headlines mentioning strategy, roadmaps, launches, investments, acquisitions or expansion. Updated 2026-11-28.</sub>
 
 | Date | Headline | Source |
 |:--|:--|:--|
 | 2026-11-23 | [Lupin (BSE:500257) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijwFBVV95cUxPbldlcEh4bEZUX0xYMzBocWRSZGhMa1hYSUR0Vzk2YWkzbVR3Q1h3STRpdnBDSnYxX2h5TjVfSUtyMGoxRHVmRkxCVHJMcV9XQ2hYZkZuMGJPc2F3LWd5TEVlWmZKTU10WVdKNzlnMHd0T2I1VFM4UTJTNmhzQnZHemJTcEgycEtDeDAzeW8tdw?oc=5) | Simply Wall St |
-| 2026-11-18 | [Lupin (NSEI:LUPIN) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0NCU2tHZDJCU25LcVVNTTNHb2MtMmVMbDBpLVpPWmtreWpFNlhJVGI5X3BjYVBJVHNMWlB6Z2dfcmdxQTdxZXNkbWNZbDA3djc4SGtPYVhuRzJiR0ljMlR4V3lzRE5SYkttU3k4dWZnbUZDOW50SzhVdmlfZ3B0MENUdjh1TFJpS21mTXh3?oc=5) | Simply Wall St |
+| 2026-11-23 | [Lupin (NSEI:LUPIN) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0NCU2tHZDJCU25LcVVNTTNHb2MtMmVMbDBpLVpPWmtreWpFNlhJVGI5X3BjYVBJVHNMWlB6Z2dfcmdxQTdxZXNkbWNZbDA3djc4SGtPYVhuRzJiR0ljMlR4V3lzRE5SYkttU3k4dWZnbUZDOW50SzhVdmlfZ3B0MENUdjh1TFJpS21mTXh3?oc=5) | Simply Wall St |
 | 2026-11-04 | [Lupin Q2 results: Net profit falls 22% to ₹1,155 cr, revenue at ₹7,827 cr](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGNhcF9RVnNFQl8zLVZ0VXlBOEdGYXBiNUMzSEZkaHVEU2xqdFRnblVzXzVwV1E2VWFjdE13eDk4LTJaV2lRSTc1VUNyOHNzSmp1MzhFSERRZnROUUdIQ2VTSXVNS0tSX2hhU3JDYTlFQjFxLWlYMmozN0FQOEltU2pXUDg4cXVUWjk3RzVFUUNISnQ4eGpsbnFqdHJmLUdxVjZBSXBHNVFkdXktYU9pdzZFbl9tVVhZbFBWeml0aU5lcjJIOTVBRzNDUlRYb3NwY3E0a2g5QWdxTWRzdzRJZkJmdkHSAeoBQVVfeXFMUGJ5cERCc2UybmNxSzFTb1hFZS1tTkNhakR4TjVKdWZic1JYR1lFY2NyekIxeE1QWi1hcFI5ZlFTZVhJZEpvWE1GMFRCQzJCaW8tNGVFaElXWW9EYnpoSXY4NnNHdExBLTM4bEN2WkZOMmNZSnhkUzhCeFFLZ19zeUJPZ3Z5Y3V5bWVQVWpnelM1YW5mMExaa1ZabW5UUlVLcENrelZCZnNtM3VXWE51OXBDNzlKMkRtSGVpcmtfS3ZCVVAyQzVpYjFNcFkxbGNQa0FSOUlSUzhFaFF0YjlENWFPZE13NFJkSmt3?oc=5) | Business Standard |
 | 2026-11-04 | [Lupin Q2 FY2027 Results](https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zR2QzWHY4aktMY0QzOVFQcE1UQ1dxODZVbE5yMHpLejdJb25zTzMxbHBkZzZna0labWU1S3BJcGw4LW9oZTNmM2xaV0owckw3VGdxYTFqXzJGLVlXM181aURweXloQQ?oc=5) | www.lupin.com |
 | 2026-11-04 | [Akhil Gupta Joins Lupin Board as Independent Director](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZU1iMjBtUFZBdC1abXpKc2pYUm1HdUtDa0d1dHBsdU9kQ1JKMGRsZ3d4UjdSUVNYMXZtTkRiSVVMdEVrQ1dJTUhzYW1kZHlPM3E5UkhXQkdxUGJEVGV1M1QwWC1IMFdrazZueERzQ2RlSy1zQmdwYzhaMDhXMmFoT0RuWHhmbXY0LS1Heg?oc=5) | www.lupin.com |
@@ -25,6 +25,7 @@
 
 | Date | Headline | Source |
 |:--|:--|:--|
+| 2026-11-23 | [Lupin (NSEI:LUPIN) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0NCU2tHZDJCU25LcVVNTTNHb2MtMmVMbDBpLVpPWmtreWpFNlhJVGI5X3BjYVBJVHNMWlB6Z2dfcmdxQTdxZXNkbWNZbDA3djc4SGtPYVhuRzJiR0ljMlR4V3lzRE5SYkttU3k4dWZnbUZDOW50SzhVdmlfZ3B0MENUdjh1TFJpS21mTXh3?oc=5) | Simply Wall St |
 | 2026-11-23 | [Lupin (BSE:500257) Stock Forecast & Analyst Predictions](https://news.google.com/rss/articles/CBMijwFBVV95cUxPbldlcEh4bEZUX0xYMzBocWRSZGhMa1hYSUR0Vzk2YWkzbVR3Q1h3STRpdnBDSnYxX2h5TjVfSUtyMGoxRHVmRkxCVHJMcV9XQ2hYZkZuMGJPc2F3LWd5TEVlWmZKTU10WVdKNzlnMHd0T2I1VFM4UTJTNmhzQnZHemJTcEgycEtDeDAzeW8tdw?oc=5) | Simply Wall St |
 
 ---
